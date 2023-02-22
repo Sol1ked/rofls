@@ -1,1 +1,1 @@
-[quiz](https://sol1ked.github.io/rofls/)
+[quiz](https://sol1ked.github.io/rofls/quiz/)
